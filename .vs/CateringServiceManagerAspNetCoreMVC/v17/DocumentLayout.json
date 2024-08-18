@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\controllers\\daigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\controllers\\daigcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\models\\daig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\models\\daig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\views\\daig\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\views\\daig\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\views\\daig\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\views\\daig\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\views\\daig\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\views\\daig\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\views\\daig\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\views\\daig\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|c:\\users\\dell\\source\\repos\\cateringservicemanageraspnetcoremvc\\cateringservicemanageraspnetcoremvc\\migrations\\20240815070558_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF2D34-8C27-4AE9-A415-BD746D58857F}|CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC.csproj|solutionrelative:cateringservicemanageraspnetcoremvc\\migrations\\20240815070558_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Create.cshtml",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Create.cshtml",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:42:33.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Index.cshtml",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Index.cshtml",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACUAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:41:43.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAowK8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T06:51:30.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaigController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Controllers\\DaigController.cs",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Controllers\\DaigController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Controllers\\DaigController.cs",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Controllers\\DaigController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:39:53.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Delete.cshtml",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T11:26:26.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABQAAADANr0lxtwuwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:06:59.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Daig.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Models\\Daig.cs",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Models\\Daig.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Models\\Daig.cs",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Models\\Daig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:00:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\appsettings.json",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T06:57:25.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Edit.cshtml",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Views\\Daig\\Edit.cshtml",
+              "ViewState": "AQIAABsAAADA6E3vjUocwDkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:43:19.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Program.cs",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:03:35.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAHgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:09:57.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Models\\Admin.cs",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:00:07.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Register.cshtml",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Register.cshtml",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Register.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIQAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:08:41.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T07:33:18.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:01:34.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240815070558_initial_create.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Migrations\\20240815070558_initial_create.cs",
+              "RelativeDocumentMoniker": "CateringServiceManagerAspNetCoreMVC\\Migrations\\20240815070558_initial_create.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CateringServiceManagerAspNetCoreMVC\\CateringServiceManagerAspNetCoreMVC\\Migrations\\20240815070558_initial_create.cs",
+              "RelativeToolTip": "CateringServiceManagerAspNetCoreMVC\\Migrations\\20240815070558_initial_create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:05:59.328Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

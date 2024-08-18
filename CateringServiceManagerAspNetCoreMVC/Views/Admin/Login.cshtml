@@ -1,0 +1,138 @@
+﻿@model Admin
+
+@* @model McqsSoftwareDevelopmentTaskAspNetCoreMVC.Models.User *@
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Form</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        /*    display: grid;
+            justify-content: center;
+            height: 88vh; */
+        background: linear-gradient(to right,#536976,#292e49);
+    }
+
+    h1 {
+        color: white;
+        font-size: 50px;
+        margin-top: 20px;
+        text-align: center;
+        margin-bottom: -20px;
+    }
+
+    .cont {
+         display: flex;
+        justify-content: center;
+        
+    }
+
+    .rop {
+        background-color: #fff;
+        padding: 20px;
+        margin-top: 30px;
+        border-radius: 8px;
+        box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.6);
+        min-width: 600px;
+        height: 370px;
+    }
+
+    .form-group {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+
+    label {
+        display: block;
+        font-weight: bold;
+        color: black;
+        text-align: center;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    input[type="email"],
+    input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        transition: border-color 0.3s ease;
+    }
+
+    .genders {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        transition: border-color 0.3s ease;
+    }
+
+    input[type="email"]:focus,
+    input[type="password"]:focus {
+        outline: none;
+        border-color: #007bff;
+    }
+
+    .error {
+        color: red;
+    }
+
+    button[type="submit"] {
+        width: 100%;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: #fff;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        font-size: 17px;
+        margin-top: 10px;
+    }
+
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+
+    .account{
+        margin-top: 50px;
+    }
+</style>
+<body>
+    <h1>Login</h1>
+    <div class="container cont">
+        <div class="row rop">
+            <div class="col-md-12 col-sm-12">
+                <form method="post">
+                    <div class="form-group">
+                        <label for="Email">Email:</label>
+                        <input type="email" placeholder="Enter Email" name="Email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Password">Password:</label>
+                        <input type="password" placeholder="Enter Password" name="Password" required>
+                        @* <span id="passwordError" class="error"></span> *@
+                    </div>
+                    <p style="color:red">@ViewBag.Message</p>
+                    <button type="submit">Login</button>
+                    <p class="small mb-0 account">Don't have account? <a href="@Url.Action("Register","Admin")">Create an account</a></p>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

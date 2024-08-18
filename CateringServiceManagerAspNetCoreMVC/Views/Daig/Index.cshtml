@@ -1,0 +1,49 @@
+﻿@model IEnumerable<CateringServiceManagerAspNetCoreMVC.Models.Daig>
+
+<h1>Inventory items</h1>
+<button type="button" class="btn btn-primary">
+    <a asp-action="Create" style="color:white; font-size: 20px;">Add Daig</a>
+</button>
+@{
+    var notification = TempData["Notification"] as string;
+}
+
+@if (!string.IsNullOrEmpty(notification))
+{
+    <div class="alert alert-success">
+        @notification
+    </div>
+}
+
+<table class="table table-striped table-bordered table-hover" style="text-align: center; margin-top: 20px;">
+    <thead style="font-size: 18px; font-weight: bold;">
+        <tr>
+            <th>Name</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody style="font-size: 17px;">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>
+                    <button type="button" class="btn btn-success">@item.Status</button>
+                </td>
+              
+                <td>
+
+                    <button type="button" class="btn btn-warning">
+                        <a asp-action="Edit" style="color: white;" asp-route-id="@item.DaigId">Update</a>
+                    </button>
+
+                    <button type="button" class="btn btn-danger">
+                        <a asp-action="Delete" style="color: white;" asp-route-id="@item.DaigId">Delete</a>
+                    </button>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
